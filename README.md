@@ -1,4 +1,4 @@
 ﻿# Meu Projeto
 
-Guilherme Rossini
+Guilherme Rossini e
 Ruan Monteiro de Castro
